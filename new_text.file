@@ -1,0 +1,3 @@
+I have created a new file. I need to add this to staging area and commit this new file.
+Command to add a new file to staging  is git add new_text.file
+Commit to commit a new file is git commit -m MSG
