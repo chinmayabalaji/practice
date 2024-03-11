@@ -3,3 +3,6 @@ Command to clone a repo is git clone url
 
 I have added a text file to this local repo. I added some text in it. I added this file to staging area. 
 Command to add a file to staging area is git add text_file.txt
+
+I have commited this text file.
+COmmand to commit is git commit -m MSG
